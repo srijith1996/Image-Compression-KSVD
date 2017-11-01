@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 BLK_SIZE = 15
-dirname = './orl_faces/dummy/'
+dirname = '../orl_faces/dummy/'
 
 def read_pgm(pgm_file):
     '''
